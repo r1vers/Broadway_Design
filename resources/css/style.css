@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica;
+  font-align: center;
+}
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+nav {
+  color: white
+  font-size: 18px;
+}
